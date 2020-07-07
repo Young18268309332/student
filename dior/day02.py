@@ -44,12 +44,12 @@
 
 
 #不知道有多少参数，求传的参数的和
-def p (*args):
-    k=0
-    for s in (args):
-        k+=s
-    return k
-print(p(12,78,5,45))
+# def p (*args):
+#     k=0
+#     for s in (args):
+#         k+=s
+#     return k
+# print(p(12,78,5,45))
 
 
 
@@ -118,9 +118,9 @@ print(p(12,78,5,45))
 # print(l)
 #
 
-from dior.day01 import a,name,Test
-
-print(a)
+# from dior.day01 import a,name,Test
+#
+# print(a)
 # a="我是变量2的变量"
 # def name():
 #     print("我是变量2的变量")
@@ -129,3 +129,8 @@ print(a)
     # name = "我是模块2中的类"
 # print(2006A.day1,2)
 # print(Test.name)
+
+
+
+
+果然是他是任何一条具有亏
