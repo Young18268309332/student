@@ -129,4 +129,7 @@ print(a)
     # name = "我是模块2中的类"
 # print(2006A.day1,2)
 # print(Test.name)
-# fsdthgjhkjliggulik.g
+
+
+
+# rdhgjykyjdtytyikuyokgf
